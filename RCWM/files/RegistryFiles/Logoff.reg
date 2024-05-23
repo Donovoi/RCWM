@@ -4,6 +4,7 @@ Windows Registry Editor Version 5.00
 
 [HKEY_CLASSES_ROOT\DesktopBackground\Shell\signout]
 "MUIVerb"="Sign Out"
+"icon"="rcwmimg.dll,-28"
 
 
 [HKEY_CLASSES_ROOT\DesktopBackground\Shell\signout\command]
